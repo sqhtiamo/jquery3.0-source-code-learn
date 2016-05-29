@@ -1,0 +1,27 @@
+{
+  "name": "jq3.0-sroucecode",
+  "version": "1.0.0",
+  "description": "The doc to learn source code of jQuery 3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqhtiamo/jquery3.0-source-code-learn.git"
+  },
+  "keywords": [
+    "jquery3.0",
+    "source",
+    "code"
+  ],
+  "author": "cloughzhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sqhtiamo/jquery3.0-source-code-learn/issues"
+  },
+  "homepage": "https://github.com/sqhtiamo/jquery3.0-source-code-learn#readme",
+  "dependencies": {
+    "jquery": "^3.0.0-rc1"
+  }
+}
